@@ -1,9 +1,10 @@
 <!--![Peek 2020-07-09 15-53](--------)-->
 <h3 align="center">Ingeniero en Sistemas <a href='https://apps2.umg.edu.gt/'>UMG</a> | Actualidad <a href='https://mingob.gob.gt/category/noticias/policia-nacional-civil/'>PNC</a> | Analista / Desarrollador de Sistemas</h3>
 
-## un poco sobre mi
+<h2 align="left" id="macropower-sobremi">Un poco sobre mi</h2>
 
-Actualmente estoy haciendo estos cursos de Platzi y tengo la intención de completarlos pronto:
+> Actualmente estoy haciendo estos cursos de Platzi y tengo la intención de completarlos pronto:
+
 - Arquitectura de Sistemas
 - Data e inteligencia Artificial
 
@@ -11,12 +12,10 @@ Actualmente estoy haciendo estos cursos de Platzi y tengo la intención de compl
 ✍️ En mi tiempo libre, disfruto del montañismo, escuchar musica y pasar tiempo con la familia.\
 💬 Hagamos una llamada Meet o Zoom, no dudes en elegir un espacio para hablar conmigo.\
 📫 ¡Puede enviarme un correo electrónico a toge619@gmail.com con un asunto..."! ¡Será un placer hablar contigo!.\
-📄 como llegar a mi:
-  **[Twitter](https://twitter.com/gersonruano), [Instagram](https://instagram.com/ger_ruano9)**
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Tecnologias</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Herramientas con las que he trabajado.
 
 <table>
   <tr>
@@ -44,8 +43,6 @@ Actualmente estoy haciendo estos cursos de Platzi y tengo la intención de compl
       </a>
       <br>Bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -59,13 +56,18 @@ Actualmente estoy haciendo estos cursos de Platzi y tengo la intención de compl
       <br>MySQL
     </td>
   </tr>
+  <tr>
+    
+  </tr>
 </table>  
 
-## Links
+<h2 align="left" id="macropower-tech">Links</h2>
+
+> como llegar a mi:
 
 <p align="center">
   <a href="mailto:toge619@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/gerson-ruano"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/gersonruano"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://public.tableau.com/app/profile/gerson6011"><img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" alt="tableau"/></a>
+  <a href="https://instagram.com/ger_ruano9"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram"/></a>
 </p>
