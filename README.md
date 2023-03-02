@@ -1,4 +1,5 @@
 <!--![Peek 2020-07-09 15-53](--------)-->
+
 <h3 align="center">Ingeniero en Sistemas <a href='https://apps2.umg.edu.gt/'>UMG</a> | Actualidad <a href='https://mingob.gob.gt/category/noticias/policia-nacional-civil/'>PNC</a> | Analista / Desarrollador de Sistemas</h3>
 
 <h2 align="left" id="macropower-sobremi">Un poco sobre mi</h2>
@@ -56,6 +57,8 @@
       </a>
       <br>MySQL 
     </td>
+	<tr/>
+	<tr>
     <td align="center" width="96">
       <a href="#macropower-dom">
         <img src="./img/postgresql-original.svg" width="48" height="48" alt="Postgresql" />
@@ -86,7 +89,14 @@
       </a>
       <br>Docker 
     </td>
+	<td align="center" width="96"> 
+      <a href="#macropower-dom" >
+        <img src="./img/notion-original.svg" width="48" height="48" alt="Notion" />
+      </a>
+      <br>Notion
+    </td>
   </tr>
+ 
 </table>
 
 <h2 align="left" id="macropower-tech">Tecnologias</h2>
@@ -127,7 +137,7 @@
     </td>
 	<td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/livewire-original.svg" width="48" height="48" alt="Livewire" />
+        <img src="./img/livewire-original.webp" width="48" height="48" alt="Livewire" />
       </a>
       <br>Livewire
     </td>
