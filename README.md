@@ -9,16 +9,16 @@
 
 <h2 align="left" id="macropower-sobremi">Un poco sobre mi</h2>
 
-> Actualmente estoy haciendo estos cursos de Platzi y tengo la intención de completarlos pronto:
+> Actualmente trabajo analizando y desarrollando aplicaciones web.\
+> Estoy haciendo estos cursos en platzi.com y tengo la intención de completarlos pronto:
 
-- Arquitectura de Software
-- Ingenieria de Datos con Python
-- Test Driven Development
+- Ingenieria de Datos con Python 50%
+- OpenBootCamp Back-End 75%
 
 🌱 Voy por buen camino para aprender más sobre Data Analyst, Testing y Arquitectura de Software.\
 ✍️ En mi tiempo libre, disfruto del montañismo, escuchar musica y pasar tiempo con la familia.\
-💬 Hagamos una llamada Meet o Zoom, no dudes en elegir un espacio para hablar conmigo.\
-📫 ¡Puede enviarme un correo electrónico a toge619@gmail.com con un asunto..."! ¡Será un placer!.
+💬 Hagamos un Meet o Zoom, no dudes en elegir un espacio para hablar conmigo.\
+📫 ¡Puede enviarme un correo electrónico a toge619@gmail.com..."! ¡Será un placer!.
 
 <h2 align="left" id="macropower-dom">Herramientas</h2>
 
@@ -42,7 +42,7 @@
       <a href="#macropower-dom" >
         <img src="./img/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>Tailwidns css 
+      <br>Tailwind css 
     </td>
     <td align="center" width="96">
       <a href="#macropower-dom">
@@ -101,15 +101,20 @@
       <br>Notion
     </td>
   </tr>
- 
 </table>
 
 <h2 align="left" id="macropower-tech">Tecnologias</h2>
 
-> Con las que he trabajado.
+> Con las que he trabajado anteriormente.
 
 <table>
   <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
@@ -146,18 +151,20 @@
       </a>
       <br>Livewire
     </td>
-	<td align="center" width="96">
+  </tr>
+  <tr>
+  <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" />
+        <img src="./img/materializecss-original.svg" width="48" height="48" alt="Materialize" />
       </a>
-      <br>Linux
+      <br>Materialize 
     </td>
   </tr>
-</table>  
+</table>
 
 <h2 align="left" id="macropower-link">Links</h2>
 
-> Como llegar a mi:
+> Como contactarme:
 
 <p align="center">
   <a href="mailto:toge619@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
