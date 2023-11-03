@@ -1,4 +1,4 @@
-<h3 align="center">Ingeniero en Sistemas <a href='https://apps2.umg.edu.gt/'>UMG</a> | Actualidad <a href='https://mingob.gob.gt/category/noticias/policia-nacional-civil/'>PNC</a> | Analista / Desarrollador de Sistemas</h3>
+<h3 align="center">Ingeniero en Sistemas <a href='https://www.umg.edu.gt/'>UMG</a> | Actualidad <a href='https://mingob.gob.gt/category/noticias/policia-nacional-civil/'>PNC</a> | Analista / Desarrollador de Sistemas</h3>
 
 <p align="center">
         <br>
@@ -7,13 +7,14 @@
                 src="https://github.com/gerson-ruano/gerson-ruano/blob/main/src/gerson.gif" />
         <br>
 
-<h2 align="left" id="macropower-sobremi">Un poco sobre mi</h2>
+<h2 align="left" id="macropower-sobremi">Sobre mi</h2>
 
-> Actualmente trabajo analizando y desarrollando aplicaciones web.\
-> Estoy haciendo estos cursos en platzi.com y tengo la intención de completarlos pronto:
+> Actualmente trabajo realizando analisis, documentación y desarrollando sistemas.\
+> Estoy siguiendo diferentes cursos en algunas plataformas, los cuales terminare pronto:
 
-- Ingenieria de Datos con Python 50%
+- Ingenieria de Datos con Python 75%
 - OpenBootCamp Back-End 75%
+- Fortinet Network Security Associate 3  25%
 
 🌱 Voy por buen camino para aprender más sobre Data Analyst, Testing y Arquitectura de Software.\
 ✍️ En mi tiempo libre, disfruto del montañismo, escuchar musica y pasar tiempo con la familia.\
@@ -22,7 +23,7 @@
 
 <h2 align="left" id="macropower-dom">Herramientas</h2>
 
-> Con las que trabajo actualmente.
+> Con las que estoy trabajando actualmente.
 
 <table>
   <tr>
@@ -76,6 +77,12 @@
       </a>
       <br>Bookstack 
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-dom">
+        <img src="./img/wekan-original.svg" width="48" height="48" alt="Wekan" />
+      </a>
+      <br>Wekan 
+    </td>
 	<td align="center" width="96">
       <a href="#macropower-dom">
         <img src="./img/tableau-original.svg" width="48" height="48" alt="Tableau" />
@@ -105,7 +112,7 @@
 
 <h2 align="left" id="macropower-tech">Tecnologias</h2>
 
-> Con las que he trabajado anteriormente.
+> Con las que en algun momento he trabajado.
 
 <table>
   <tr>
@@ -164,11 +171,11 @@
 
 <h2 align="left" id="macropower-link">Links</h2>
 
-> Como contactarme:
+> Como encontrarme:
 
 <p align="center">
   <a href="mailto:toge619@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/gerson-ruano"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/gersonruano"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://instagram.com/ger_ruano9"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram"/></a>
+  <a href="https://instagram.com/_g_ruano"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram"/></a>
 </p>
