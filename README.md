@@ -107,7 +107,6 @@
       </a>
       <br>Notion
     </td>
-  </tr>
   <td align="center" width="96"> 
       <a href="#macropower-dom" >
         <img src="./img/proxmox-original.svg" width="48" height="48" alt="Proxmox" />
