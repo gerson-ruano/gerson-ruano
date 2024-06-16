@@ -1,4 +1,4 @@
-<h3 align="center">Ingeniero en Sistemas <a href='https://www.umg.edu.gt/'>UMG</a> | Actualidad <a href='https://mingob.gob.gt/category/noticias/policia-nacional-civil/'>PNC</a> | Analista / Desarrollador de Sistemas</h3>
+<h3 align="center">Ingeniero en Sistemas <a href='https://www.umg.edu.gt/'>UMG</a> | Actualidad <a href='https://pnc.gob.gt/'>PNC</a> | Analista | Desarrollador de Sistemas</h3>
 
 <p align="center">
         <br>
@@ -9,16 +9,16 @@
 
 <h2 align="left" id="macropower-sobremi">Sobre mi</h2>
 
-> Actualmente trabajo realizando analisis, documentación y desarrollando sistemas.\
-> Estoy siguiendo diferentes cursos en algunas plataformas, los cuales terminare pronto:
+> Actualmente trabajo realizando Analisis, Documentación y Desarrollando Sistemas.\
+> Estoy completando varios cursos en diferentes plataformas:
 
-- Ingenieria de Datos con Python 75%
-- OpenBootCamp Back-End 75%
-- Fortinet Network Security Associate 3  25%
+- **Ingeniería de Datos con Python:** 75%
+- **OpenBootCamp Back-End:** 75% 
+- **Fortinet Network Security Associate 3:** 45%
 
-🌱 Voy por buen camino para aprender más sobre Data Analyst, Testing y Arquitectura de Software.\
-✍️ En mi tiempo libre, disfruto del montañismo, escuchar musica y pasar tiempo con la familia.\
-💬 Hagamos un Meet o Zoom, no dudes en elegir un espacio para hablar conmigo.\
+🌱 Estoy aprendiendo más sobre Análisis de Datos, Testing y Arquitectura de Software.\
+✍️ En mi tiempo libre, disfruto del montañismo, escuchar música y pasar tiempo con mi familia.\
+💬 ¡Hablemos en Meet o Zoom! No dudes en elegir un espacio para charlar conmigo.\
 📫 ¡Puede enviarme un correo electrónico a [toge619@gmail.com](mailto:toge619@gmail.com)..."! ¡Será un placer!.
 
 <h2 align="left" id="macropower-dom">Herramientas</h2>
@@ -108,6 +108,13 @@
       <br>Notion
     </td>
   </tr>
+  <td align="center" width="96"> 
+      <a href="#macropower-dom" >
+        <img src="./img/proxmox-original.svg" width="48" height="48" alt="Proxmox" />
+      </a>
+      <br>Proxmox
+    </td>
+  </tr>
 </table>
 
 <h2 align="left" id="macropower-tech">Tecnologias</h2>
@@ -174,8 +181,8 @@
 > Como encontrarme:
 
 <p align="center">
-  <a href="(mailto:toge619@gmail.com)"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="mailto:toge619@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/gerson-ruano"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/gersonruano"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://instagram.com/_g_ruano"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram"/></a>
+  <a href="https://instagram.com/ge_ruano"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram"/></a>
 </p>
