@@ -9,12 +9,13 @@
 
 <h2 align="left" id="macropower-sobremi">Sobre mi</h2>
 
-> Actualmente trabajo realizando Analisis, Documentación y Desarrollando Sistemas.\
-> Estoy completando varios cursos en diferentes plataformas:
+> Actualmente trabajo como Analista y Desarrollor de Sistemas.\
+> 2021 - Present\
+> Cursos que actualmente realizo:
 
-- **Ingeniería de Datos con Python:** 75%
 - **OpenBootCamp Back-End:** 75% 
-- **Fortinet Network Security Associate 3:** 45%
+- **Fortinet Network Security Associate 3:** 80%
+- **Integración de API de Facturación Electronica de FACTUS:** 75%
 
 🌱 Estoy aprendiendo más sobre Análisis de Datos, Testing y Arquitectura de Software.\
 ✍️ En mi tiempo libre, disfruto del montañismo, escuchar música y pasar tiempo con mi familia.\
@@ -23,7 +24,7 @@
 
 <h2 align="left" id="macropower-dom">Herramientas</h2>
 
-> Con las que estoy trabajando actualmente.
+> Con las que trabajo actualmente.
 
 <table>
   <tr>
@@ -85,12 +86,6 @@
     </td>
 	<td align="center" width="96">
       <a href="#macropower-dom">
-        <img src="./img/tableau-original.svg" width="48" height="48" alt="Tableau" />
-      </a>
-      <br>Tableau
-    </td>
-	<td align="center" width="96">
-      <a href="#macropower-dom">
         <img src="./img/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git 
@@ -107,6 +102,12 @@
       </a>
       <br>Notion
     </td>
+  <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
   <td align="center" width="96"> 
       <a href="#macropower-dom" >
         <img src="./img/proxmox-original.svg" width="48" height="48" alt="Proxmox" />
@@ -122,12 +123,6 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
@@ -171,6 +166,12 @@
         <img src="./img/materializecss-original.svg" width="48" height="48" alt="Materialize" />
       </a>
       <br>Materialize 
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-dom">
+        <img src="./img/tableau-original.svg" width="48" height="48" alt="Tableau" />
+      </a>
+      <br>Tableau
     </td>
   </tr>
 </table>
