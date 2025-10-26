@@ -15,16 +15,16 @@
 
 - **OpenBootCamp Back-End:** 75% 
 - **Fortinet Network Security Associate 3:** 80%
-- **Integración de API de Facturación Electronica de FACTUS:** 75%
+- **Desarrollando proyectos en tiempo libre en Python:** 50%
 
-🌱 Estoy aprendiendo más sobre Análisis de Datos, Testing y Arquitectura de Software.\
+🌱 Estoy actualizandome constantemente sobre Análisis de Datos, Testing y Arquitectura de Software.\
 ✍️ En mi tiempo libre, disfruto del montañismo, escuchar música y pasar tiempo con mi familia.\
 💬 ¡Hablemos en Meet o Zoom! No dudes en elegir un espacio para charlar conmigo.\
 📫 ¡Puede enviarme un correo electrónico a [toge619@gmail.com](mailto:toge619@gmail.com)..."! ¡Será un placer!.
 
 <h2 align="left" id="macropower-dom">Herramientas</h2>
 
-> Con las que trabajo actualmente.
+> Las herramienas que uso en mi trabajo actualmente.
 
 <table>
   <tr>
@@ -119,7 +119,7 @@
 
 <h2 align="left" id="macropower-tech">Tecnologias</h2>
 
-> Con las que en algun momento he trabajado.
+> Las herramientas on las que en algun momento he trabajado.
 
 <table>
   <tr>
@@ -129,18 +129,18 @@
       </a>
       <br>Python 
     </td>
-	<td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-	<td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/nodejs-original.svg" width="48" height="48" alt="Nodejs" />
-      </a>
-      <br>Nodejs
-    </td>
+    <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="./img/java-original.svg" width="48" height="48" alt="Java" />
+        </a>
+        <br>Java
+      </td>
+    <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="./img/nodejs-original.svg" width="48" height="48" alt="Nodejs" />
+        </a>
+        <br>Nodejs
+      </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -153,19 +153,11 @@
       </a>
       <br>React
     </td>
-	<td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/livewire-original.svg" width="48" height="48" alt="Livewire" />
-      </a>
+    <td align="center" width="96">
+        <a href="#macropower-tech" >
+          <img src="./img/livewire-original.svg" width="48" height="48" alt="Livewire" />
+        </a>
       <br>Livewire
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/materializecss-original.svg" width="48" height="48" alt="Materialize" />
-      </a>
-      <br>Materialize 
     </td>
     <td align="center" width="96">
       <a href="#macropower-dom">
@@ -174,11 +166,25 @@
       <br>Tableau
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/materializecss-original.svg" width="48" height="48" alt="Materialize" />
+        </a>
+      <br>Materialize 
+    </td>
+    <td align="center" width="96">
+      <a href="https://flask.palletsprojects.com/en/stable/" >
+        <img src="./img/flask-original.svg" width="48" height="48" alt="Flask" />
+        </a>
+      <br>Flask
+    </td>
+  </tr>
 </table>
 
 <h2 align="left" id="macropower-link">Links</h2>
 
-> Como encontrarme:
+> Como contactarme:
 
 <p align="center">
   <a href="mailto:toge619@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
