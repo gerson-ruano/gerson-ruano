@@ -9,7 +9,7 @@
 
 <h2 align="left" id="macropower-sobremi">Sobre mi</h2>
 <p align="center">
-  <a href="https://portfolio-gr-pearl.vercel.app"><img src="https://img.icons8.com/color/32/000000/link.png" alt="page"/></a>
+  <a href="https://portfolio-gr-pearl.vercel.app"><img src="https://img.icons8.com/color/32/000000/link.png" alt="page"/>*Mi Portfolio*</a>
 </p>
 
 > Actualmente trabajo como Desarrollor de Sistemas en PNC.\
