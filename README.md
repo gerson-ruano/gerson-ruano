@@ -8,17 +8,21 @@
         <br>
 
 <h2 align="left" id="macropower-sobremi">Sobre mi</h2>
+<p align="center">
+  <a href="https://portfolio-gr-pearl.vercel.app"><img src="https://img.icons8.com/color/32/000000/link.png" alt="page"/></a>
+</p>
 
-> Actualmente trabajo como Analista y Desarrollor de Sistemas.\
+> Actualmente trabajo como Desarrollor de Sistemas en PNC.\
 > 2021 - Present\
-> Cursos que actualmente realizo:
+> Cursos/Certificados obtenidos:
 
-- **OpenBootCamp Back-End:** 75% 
-- **Fortinet Network Security Associate 3:** 80%
-- **Desarrollando proyectos en tiempo libre en Python:** 50%
+- **Scrum Fundamentals Certified:** SCRUMstudy 
+- **Fortinet Certified Fundamentals in Cybersecurity:** FORTINET Training Institute
+- **Facturaciòn Electronica de FACTUS:** HALLTEC
+- **Capacitaciòn sobre Ciberseguridad:** Superintendencia de Bancos
 
-🌱 Estoy actualizandome constantemente sobre Análisis de Datos, Testing y Arquitectura de Software.\
-✍️ En mi tiempo libre, disfruto del montañismo, escuchar música y pasar tiempo con mi familia.\
+🌱 Estoy actualizandome constantemente sobre Análisis de Datos, Arquitectura de Software, Desarrollo Web\
+✍️ En mi tiempo libre, disfruto del viajar, escuchar música y pasar tiempo con mis amigos y familia.\
 💬 ¡Hablemos en Meet o Zoom! No dudes en elegir un espacio para charlar conmigo.\
 📫 ¡Puede enviarme un correo electrónico a [toge619@gmail.com](mailto:toge619@gmail.com)..."! ¡Será un placer!.
 
@@ -190,5 +194,5 @@
   <a href="mailto:toge619@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/gerson-ruano"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/gersonruano"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://instagram.com/ge_ruano"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram"/></a>
+  <a href="https://instagram.com/_ruanog"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram"/></a>
 </p>
