@@ -9,7 +9,7 @@
 
 <h2 align="left" id="macropower-sobremi">Sobre mi</h2>
 <p align="center">
-  <a href="https://portfolio-gr-pearl.vercel.app"><img src="https://img.icons8.com/color/32/000000/link.png" alt="page"/>*Mi Portfolio*</a>
+  <a href="https://portfolio-gr-pearl.vercel.app"><alt="page"/>Mi Portfolio Web</a>
 </p>
 
 > Actualmente trabajo como Desarrollor de Sistemas en PNC.\
@@ -194,5 +194,5 @@
   <a href="mailto:toge619@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/gerson-ruano"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/gersonruano"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://instagram.com/_ruanog"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram"/></a>
+  <a href="https://instagram.com/__ruanog"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram"/></a>
 </p>
