@@ -12,7 +12,7 @@
   <a href="https://portfolio-gr-pearl.vercel.app"><alt="page"/>Mi Portfolio Web</a>
 </p>
 
-> Actualmente trabajo como Desarrollor de Sistemas en PNC.\
+> Actualmente trabajo como Desarrollador de Sistemas en PNC.\
 > 2021 - Present\
 > Cursos/Certificados obtenidos:
 
@@ -20,6 +20,7 @@
 - **Fortinet Certified Fundamentals in Cybersecurity:** FORTINET Training Institute
 - **Facturaciòn Electronica de FACTUS:** HALLTEC
 - **Capacitaciòn sobre Ciberseguridad:** Superintendencia de Bancos
+- **Curso Elearning sobre Ciberdelincuencia:** UNODC
 
 🌱 Estoy actualizandome constantemente sobre Análisis de Datos, Arquitectura de Software, Desarrollo Web\
 ✍️ En mi tiempo libre, disfruto del viajar, escuchar música y pasar tiempo con mis amigos y familia.\
